@@ -1,4 +1,4 @@
-## Matthew Waismann
+
 ![](images/cover_img.jpg?raw=true)
 
 In December of 2020, I graduated from the master's in statistics program at the [UC San Diego Department of Mathematics](https://math.ucsd.edu). Prior to my time at UCSD, I was an undergraduate at UCLA studying applied mathematics. My interests are in the fields of deep learning, Bayesian inference, and high-dimensional data analysis. I am passionate about educating the general public on statistics and overall data literacy in this age of evergrowing information.
