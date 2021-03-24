@@ -5,7 +5,7 @@ In December of 2020, I graduated from the master's in statistics program at the 
 
 I currently maintain [OC Covid Tracker](https://occovidtracker.shinyapps.io/oc_covid_dashboard/) which keeps track of various COVID-19 related metrics for Orange County, California.
 
-You can access my [github](https://github.com/mattwaismann) for projects
+You can access my [github](https://github.com/mattwaismann) for other projects.
 
 I really enjoy teaching, particulary at the introductory level. At UCSD I have served as a teaching assistant for [MATH 11 - Calculus-Based Introductory Probability and Statistics](https://www.ucsd.edu/catalog/courses/MATH.html) and [Math 189 - Exploratory Data Analysis and Inference](https://www.ucsd.edu/catalog/courses/MATH.html). You can find all of my student evaluations here:
 - [Math 11 (Fall '19)](https://mattwaismann.github.io/teaching_evaluations/Waismann_Matthew_Student_IA_Evaluation_-_MATH_11_-_Calculus-Based_Prob_&_Stats_[A00]_(Hammock_Frances_H)_-_FA19.pdf)
