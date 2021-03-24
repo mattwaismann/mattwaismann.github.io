@@ -13,4 +13,3 @@ I really enjoy teaching, particulary at the introductory level. At UCSD I have s
 - [Math 11 (Winter '20)](https://mattwaismann.github.io/teaching_evaluations/Waismann_Matthew_Student_IA_Evaluation_-_MATH_11_-_Calculus-Based_Prob_&_Stats_[B00]_(Ciotti_Benjamin)_-_WI20.pdf)
 - [Math 189 (Spring '20)](https://mattwaismann.github.io/teaching_evaluations/Waismann_Matthew_Student_IA_Evaluation_-_MATH_189_-_Data_Analysis_and_Inference_[B00]_(Schwartzman_Armin)_-_SP20.pdf)
 - [Math 11 (Fall '20)](https://mattwaismann.github.io/teaching_evaluations/Waismann_Matthew_Student_IA_Evaluation_-_MATH_11_-_Calculus-Based_Prob_&_Stats_[B00]_(Schweinsberg_Jason)_-_FA20.pdf?raw=true)
-
